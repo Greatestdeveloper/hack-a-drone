@@ -1,5 +1,6 @@
 # hack-a-drone
 
+## Install Arch Linux for smooth experience with the application and it is mandatory.
 1. Download all the shell ( .sh ) files to the root directory( cd ~ ) using git clone.
 2. grant execute permission to apkinstall.sh it using :
 ```
