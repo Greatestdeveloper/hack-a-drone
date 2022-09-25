@@ -1,7 +1,7 @@
 #1 /bin/bash
 
 cd ~
-
+sudo apt-get install git
 #opening new terminal for running fuzzer
 
 gnome-terminal
