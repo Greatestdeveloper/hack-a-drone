@@ -2,7 +2,7 @@
 cd ~
 sudo apt install git
 
-echo "-----------------Enter your ardupilot cloned repository url :" 
+echo "-----------------Enter your ardupilot cloned repository url----------------- :" 
 read url 
 git clone $url
 cd ardupilot
