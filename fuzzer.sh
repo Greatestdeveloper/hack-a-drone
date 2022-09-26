@@ -2,6 +2,8 @@
 
 cd ~
 sudo apt-get install git
+sudo apt-get install cmake 
+sudo apt-get install clang
 
 #opening new terminal for running fuzzer
 #commands are not getting executed in the new terminal opened.
