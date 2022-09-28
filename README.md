@@ -13,7 +13,8 @@ chmod +x sitl.sh
 chmod +x MissionPlanner.sh
 chmod +x fuzzer.sh
 ```
-4. Right click on "hack-the-drone_0.1_all.deb" file and open it in other application and install the application.
+4. Open "hack-a-drone" folder in the file explorer.
+4. Right click on "hack-the-drone_0.1_all.deb" file and open it in ubuntu software center and install the application.
 5. After installing the application open terminal and the type "hack-the-drone" it will open the application and then follow the instructions present in the application. 
 6. Now you're good to go with hack-the-drone application.
 
